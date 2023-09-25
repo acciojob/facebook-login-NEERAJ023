@@ -21,11 +21,14 @@ form{
 	flex-direction:column;
 	gap:10px;
 }
+input{
+	height:28px;
+}
 button{
 	background-color:#1877f2;
 	border-radius:5px;
 	padding:10px 20px;
-	
+	color:white;
 }
 a{
 	text-decoration:none;
@@ -33,4 +36,6 @@ a{
 }
 .signup{
 	background-color:#42b72a;
+	color:white;
+	margin-top:10px;
 }
