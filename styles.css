@@ -22,7 +22,9 @@ form{
 	gap:10px;
 }
 input{
-	height:28px;
+	border:1px solid #ccc;
+	border-radius:5px;
+	padding:10px;
 }
 button{
 	background-color:#1877f2;
